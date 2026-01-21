@@ -4,7 +4,7 @@
 ![Databricks](https://img.shields.io/badge/Platform-Databricks-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-## 📖 Introduction
+## Introduction
 
 This repository contains my solutions for **Case Study #2: Pizza Runner** from Danny Ma's [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-2/). 
 
